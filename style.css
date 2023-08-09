@@ -776,9 +776,7 @@ p {
 
 }
 
-.html {
-  background-image: https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_1280.jpg;
-}
+
 
 a.tbl-merah {
   background:  #eb1e95;
@@ -795,4 +793,11 @@ a.tbl-merah {
 
     font-weight: bolt;
     
+}
+
+a.tbl-pink:hover {
+
+    background: #1d024e;
+
+    text-decoration: none;
 }
