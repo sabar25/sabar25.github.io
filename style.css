@@ -631,7 +631,7 @@ nav ul li a:hover {
 
 
 
-section {
+.section {
 
     margin: auto;
 
@@ -773,4 +773,8 @@ p {
 
     padding: 15px 20px 15px 20px;
 
+}
+
+.html {
+  background-image: https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_1280.jpg;
 }
