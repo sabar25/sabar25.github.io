@@ -21,6 +21,7 @@ body {
     font-family: 'open sans',sans-serif;
     
     background-color: auto;
+    
 }
 
 
@@ -58,7 +59,7 @@ body {
 .menu {
 
     float: right;
-
+font-size: 7vw;
     
 
 }
@@ -777,4 +778,21 @@ p {
 
 .html {
   background-image: https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_1280.jpg;
+}
+
+a.tbl-merah {
+  background:  #eb1e95;
+
+    border-radius: 20px;
+
+    margin-top: 20px;
+
+    padding: 15px 20px 15px 20px;
+
+    color: #FFFFFF;
+
+    cursor: pointer;
+
+    font-weight: bolt;
+    
 }
