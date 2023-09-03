@@ -5,6 +5,8 @@
     margin: 0px;
 
     padding: 0px;
+   
+   background-image: "https://img.freepik.com/free-photo/aerial-view-kelingking-beach-nusa-penida-island-bali-indonesia_335224-307.jpg?w=1060&t=st=1693739222~exp=1693739822~hmac=55960fdfa5c3d9a75d1faaea67ac776e2e65c792c4985ce8246fd975da622945" ;
 
 }
 
@@ -20,8 +22,9 @@ body {
 
     font-family: 'open sans',sans-serif;
     
-    background-color: #918c8c;
+    background-color: #ffffff;
     
+    font display: auto;
 }
 
 
@@ -33,20 +36,22 @@ body {
     margin: auto;
 
     position: relative;
+    
+    background-color: system;
 
 }
 
 .logo a {
 
-    font-size: 25px;
+    font-size: 20px;
 
-    font-weight: 50px;
+    font-weight: 20px;
 
     float: left;
 
     font-family: courier;
 
-    color: #0f0404;
+    color: #be1717;
 
    
 
@@ -60,7 +65,7 @@ body {
 
     float: right;
 font-size: 1008px;
-    margin-bottom: ;
+   
 
 }
 
