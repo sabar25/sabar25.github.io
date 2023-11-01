@@ -1,5 +1,0 @@
-<body {
-      color: rgba(0, 0, 0, .86);
-      font-family: 'Roboto', Arial, sans-serif;
-      -webkit-font-smoothing: antialiased;
-    }
